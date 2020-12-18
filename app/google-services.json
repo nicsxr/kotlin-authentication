@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889632982648",
+    "project_id": "and-auth",
+    "storage_bucket": "and-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889632982648:android:af2b98c15b44ef67f24f8d",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889632982648-0c2ff6v39pf2qifum6nq117gte7ea6so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7RuwHp9VgiDgCVrJIDtnooeeIvi5_pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889632982648-0c2ff6v39pf2qifum6nq117gte7ea6so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
